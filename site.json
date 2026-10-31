@@ -1,0 +1,11 @@
+{
+  "title": "Capital Marine and Civil Construction Pvt Ltd",
+  "description": "Capital Marine and Civil Construction Pvt Ltd develops and delivers marine infrastructure, reclamation, coastal protection, harbour and community projects worldwide.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
